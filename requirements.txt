@@ -1,0 +1,16 @@
+git+https://github.com/huggingface/accelerate.git
+git+https://github.com/huggingface/diffusers.git
+transformers==4.57.0
+huggingface_hub
+peft>=0.17.0
+sentencepiece
+torchvision
+kernels
+spaces
+hf_xet
+gradio
+torch
+numpy
+av
+einops
+opencv-python
