@@ -14,3 +14,5 @@ numpy
 av
 einops
 opencv-python
+onnx
+onnxruntime-gpu
